@@ -11,3 +11,5 @@ This project consists of two parts Currency detection and denomination recogniti
 To run the notebooks, copy the datasets into your drive or use it as it is. Open the notebook in google colab. While running the notebooks, modify the paths of the dataset.
 
 
+The link for the dataset is given below.
+Dataset: https://drive.google.com/file/d/12V6aGS_NL__RQJ10dnZw7cAEfxcolkB_/view?usp=sharing
